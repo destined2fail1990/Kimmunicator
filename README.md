@@ -24,12 +24,15 @@ pip install pillow
 Text To Speech
 
 pip install tkinter
+
 pip install gTTS
+
 pip install playsound
 
 Subtitle Forced Alignment
 
 pip install numpy
+
 pip install aeneas
 
 Merge Into Video
