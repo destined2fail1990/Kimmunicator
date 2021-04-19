@@ -3,3 +3,6 @@ Text->Video - Speech Synthesis, aka Text-To-Speech, with syncronized close capti
 
 
 Used for people that have a hard time speaking to another handicapped individual.
+
+Usage: kimm.exe [-list "input.csv"] [-bgcolor] [-color] [-image "jpg|png"] [-tts "Text"] "file.mp3|mp4"
+
