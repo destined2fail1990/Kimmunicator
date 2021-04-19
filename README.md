@@ -8,6 +8,30 @@ Usage: kimm.py [-list "input.csv"] [-bgcolor] [-color] [-image "jpg|png"] [-tts 
 
 
 
-# Installation
+# Installation (TODO)
 CSV Mapper
+
 pip install csvmapper
+
+Color Utils
+
+pip install colorutils
+
+Pillow
+
+pip install pillow
+
+Text To Speech
+
+pip install tkinter
+pip install gTTS
+pip install playsound
+
+Subtitle Forced Alignment
+
+pip install numpy
+pip install aeneas
+
+Merge Into Video
+
+pip install pymkv
