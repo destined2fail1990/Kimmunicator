@@ -23,11 +23,7 @@ pip install pillow
 
 Text To Speech
 
-pip install tkinter
-
-pip install gTTS
-
-pip install playsound
+pip3 install gTTS pyttsx3 playsound
 
 Subtitle Forced Alignment
 
