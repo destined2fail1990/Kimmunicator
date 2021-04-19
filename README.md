@@ -34,3 +34,5 @@ pip install aeneas
 Merge Into Video
 
 pip install pymkv
+
+pip install BeautifulSoup4 lxml
